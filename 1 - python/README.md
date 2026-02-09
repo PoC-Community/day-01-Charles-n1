@@ -44,16 +44,16 @@ Returns:
 
 Before we get started with **iPython notebooks**, which you will be using for most of the week, we'd like to show you a cool party trick that you can do using any terminal with Python installed !
 
-Open up a new terminal window: inside, simply run the `python` command !
+Open up a new terminal window: inside, simply run the `python3` command !
 
 ```bash
-> python
+> python3
 ```
 
 This command will open up the python command line:
 
 ```bash
-> python
+> python3
 Python 3.X.XX (main, XXX XX XXXX, XX:XX:XX)
 [GCC 7.5.0] :: Anaconda, Inc. on linux
 Type "help", "copyright", "credits" or "license" for more information.
